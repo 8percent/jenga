@@ -14,7 +14,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://kirade.githubio/">
+      <a href="https://kirade.github.io/">
         <img src="https://avatars.githubusercontent.com/u/13049936?v=4" width="100px;" alt=""/><br /><sub><b>허재영</b></sub>
       </a>
     </td>
