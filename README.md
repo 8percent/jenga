@@ -10,4 +10,11 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://kirade.githubio/">
+        <img src="https://avatars2.githubusercontent.com/u/2469766?v=4" width="100px;" alt=""/><br /><sub><b></b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
