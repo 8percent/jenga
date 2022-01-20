@@ -1,6 +1,6 @@
 # jenga
 
-"클린 아키텍처" 스터디 입니다. 더 이상 우리의 설계가 젠가가 되지 않도록!
+**[클린 아키텍처](http://www.yes24.com/Product/Goods/77283734)** 스터디 입니다. 더 이상 우리의 설계가 젠가가 되지 않도록!
 
 <img src="https://github.com/8percent/jenga/blob/753f0a6b40171133ed1f6fa2cc1c9f3fd9cc7dba/images/jenga.jpeg" width="160px;"/>
 
