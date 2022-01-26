@@ -21,6 +21,11 @@
     <td align="center">
       <a href="https://hansdev.kr/">
         <img src="https://avatars.githubusercontent.com/u/1438402?v=4" width="100px;" alt=""/><br /><sub><b>한상명</b></sub>
+      </a>      
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/11434856?s=96&v=4" width="100px;" alt=""/><br /><sub><b>이학진</b></sub>
       </a>
     </td>
   </tr>
