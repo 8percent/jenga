@@ -28,6 +28,11 @@
         <img src="https://avatars.githubusercontent.com/u/11434856?s=96&v=4" width="100px;" alt=""/><br /><sub><b>이학진</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://stackoverflow.com/users/7562853/boseong-choi">
+        <img src="https://avatars.githubusercontent.com/cbscsm" width="100px;" alt=""\><br /><sub><b>최보성</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
