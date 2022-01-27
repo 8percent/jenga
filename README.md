@@ -33,6 +33,11 @@
         <img src="https://avatars.githubusercontent.com/cbscsm" width="100px;" alt=""\><br /><sub><b>최보성</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/1527908?v=4" width="100px;" alt=""/><br /><sub><b>이용상</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
