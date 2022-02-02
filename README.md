@@ -38,6 +38,10 @@
         <img src="https://avatars.githubusercontent.com/u/1527908?v=4" width="100px;" alt=""/><br /><sub><b>이용상</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UCwrQIv8gM6AUtRfjgesdzeA">
+        <img src="https://avatars.githubusercontent.com/u/45473846?v=4" width="100px;" alt=""/><br /><sub><b>이경준</b></sub>
+    </td>
   </tr>
 </table>
 
