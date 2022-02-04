@@ -11,7 +11,7 @@ class PrintView:
 class PDFView(PrintView):
 
     def print(self, input_dto):
-        print('Print PDF file!')
+        print(f'Print PDF View! content: {input_dto}')
 
 
 class ScreenView:
@@ -23,7 +23,7 @@ class ScreenView:
 class WebView(ScreenView):
 
     def screen(self, input_dto):
-        print('Show Web View!')
+        print(f'Show Web View! content: {input_dto}')
 
 
 class FinancialReportPresenter:

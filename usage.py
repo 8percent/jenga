@@ -1,7 +1,3 @@
-import sys
-
-sys.path.append('')
-
 from week2.jaeyoung.boundary import PrintPresenter, PDFView, ScreenPresenter, \
     WebView
 from week2.jaeyoung.repository import FinancialDataMapper
