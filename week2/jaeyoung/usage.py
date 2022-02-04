@@ -1,6 +1,9 @@
 import sys
+from os.path import dirname
 
-sys.path.append('')
+
+BASE_DIR = dirname(dirname(dirname(__file__)))
+sys.path.append(BASE_DIR)
 
 from week2.jaeyoung.boundary import PrintPresenter, PDFView, ScreenPresenter, \
     WebView
